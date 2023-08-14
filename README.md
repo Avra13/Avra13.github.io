@@ -11,6 +11,6 @@ const weddingVenue = new Location('Baidyabati, West Bengal');
 
     // your presence is requested
     (new Wedding()).acceptInvitation(
-        window.open('https://sonali.netlify.app/')
+        window.open('https://Avra.netlify.app/')
     );
 })();
