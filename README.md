@@ -45,13 +45,12 @@
 <body>
     <div class="container">
         <h1>Join Us for Our Wedding!</h1>
-        <img class="photo" src="couple-photo.jpg" alt="The Couple">
+        <img class="photo" src="Srija and Avra 1.jpg" alt="The Couple">
         <p>We are excited to invite you to our special day.</p>
         <p>Date: <span class="date">[Date of the wedding]</span></p>
-        <p>Time: [Time of the wedding]</p>
-        <p>Location: [Wedding venue]</p>
-        <p>Dress Code: [Dress code if any]</p>
-        <p>RSVP by [RSVP date] to [RSVP email/phone]</p>
+        <p>Time: 27th November 2023</p>
+        <p>Location: Baidyabati</p>
+        <p>Dress Code: Indian Ethnic </p>
         <p>We're looking forward to celebrating with you!</p>
     </div>
 </body>
