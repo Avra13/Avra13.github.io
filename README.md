@@ -39,7 +39,7 @@
 <body>
     <div class="container">
         <h1>Join Us for Our Wedding!</h1>
-        <img class="photo" src="https://drive.google.com/file/d/1JoxIDJtaqcpcHBxaF3f0f6LatpaTPnR6/view?usp=sharing" alt="The Couple">
+        <img class="photo" src="Srija and Avra 1.jpg" alt="The Couple">
         <p>We are excited to invite you to our special day.</p>
         <p>Date: <span class="date">27th November 2023</span></p>
         <p>Time: 6pm onwards </p>
